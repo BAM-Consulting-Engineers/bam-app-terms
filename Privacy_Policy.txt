@@ -1,0 +1,96 @@
+PRIVACY POLICY
+
+BAM Business Management System
+Effective Date: January 2025
+
+BAM Consulting Engineers, LLC and BAM Structural Systems, LLC (collectively "Company," "we," "us," or "our") operate the BAM Business Management System ("Software"). This Privacy Policy describes how we collect, use, and protect information within the Software.
+
+1. INFORMATION WE COLLECT
+
+Employee/User Information:
+- Name and contact information
+- Email address
+- Role and department
+- Hourly rate and compensation data
+- Time entries and work records
+- Login credentials and access logs
+
+Business Information:
+- Client and vendor contact details
+- Project and job information
+- Financial data (quotes, invoices, expenses)
+- Time and billing records
+
+System Information:
+- Login timestamps
+- IP addresses
+- Device information
+- Activity logs
+
+2. HOW WE USE INFORMATION
+
+We use collected information to:
+- Operate and maintain the Software
+- Track time, projects, and billing
+- Generate invoices and financial reports
+- Manage employee records and payroll
+- Ensure system security
+- Comply with legal obligations
+
+3. DATA STORAGE AND SECURITY
+
+- All data is stored on Company-owned servers
+- Access requires VPN connection and authentication
+- Data is not stored on third-party cloud services
+- Access is restricted based on user role and permissions
+- Regular backups are performed
+
+4. DATA SHARING
+
+We do not sell or rent personal information. We may share data:
+- With authorized Company personnel as needed for business operations
+- With external accountants or auditors for financial reporting
+- When required by law or legal process
+- To protect Company rights or safety
+
+5. DATA RETENTION
+
+- Active employee data: Retained during employment
+- Former employee data: Retained as required for legal/tax compliance
+- Project and financial data: Retained per Company record retention policy
+- System logs: Retained for 12 months
+
+6. YOUR RIGHTS
+
+As an employee or authorized user, you may:
+- Access your personal information
+- Request correction of inaccurate data
+- Request information about data we hold about you
+
+Contact your supervisor or system administrator to exercise these rights.
+
+7. THIRD-PARTY SERVICES
+
+The Software may integrate with:
+- ERPNext (self-hosted backend)
+- PDF generation services (local)
+
+No data is transmitted to external third-party services without explicit business need.
+
+8. CHANGES TO THIS POLICY
+
+We may update this Privacy Policy periodically. Users will be notified of material changes through the Software or company communication.
+
+9. CONTACT
+
+For questions about this Privacy Policy, contact:
+
+System Administrator
+BAM Consulting Engineers, LLC
+[Address]
+[Email]
+[Phone]
+
+---
+BAM Consulting Engineers, LLC
+BAM Structural Systems, LLC

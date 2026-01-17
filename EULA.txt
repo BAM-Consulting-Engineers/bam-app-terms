@@ -1,0 +1,63 @@
+END-USER LICENSE AGREEMENT
+
+BAM Business Management System
+Effective Date: January 2025
+
+This End-User License Agreement ("Agreement") is between BAM Consulting Engineers, LLC and BAM Structural Systems, LLC (collectively "Company") and any employee, contractor, or authorized user ("User") accessing the BAM Business Management System ("Software").
+
+1. LICENSE GRANT
+
+Company grants User a limited, non-exclusive, non-transferable license to access and use the Software solely for Company business purposes during the term of User's employment or engagement with Company.
+
+2. RESTRICTIONS
+
+User shall not:
+- Copy, modify, or distribute the Software
+- Reverse engineer, decompile, or disassemble the Software
+- Share login credentials with unauthorized persons
+- Access the Software from non-approved devices or networks
+- Use the Software for any purpose other than Company business
+- Attempt to bypass security measures including VPN requirements
+
+3. OWNERSHIP
+
+The Software and all related intellectual property rights remain the exclusive property of Company. This Agreement does not transfer any ownership rights to User.
+
+4. DATA ENTRY
+
+User is responsible for the accuracy of data entered into the Software. User agrees to enter information honestly and in accordance with Company policies.
+
+5. CONFIDENTIALITY
+
+All data within the Software is confidential Company information. User agrees to maintain confidentiality of all client, project, financial, and business data accessed through the Software.
+
+6. TERMINATION
+
+This license terminates automatically upon:
+- Termination of User's employment or engagement with Company
+- User's violation of this Agreement
+- Company's decision to discontinue the Software
+
+Upon termination, User's access will be revoked and User shall have no further right to access the Software or any data contained therein.
+
+7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+
+COMPANY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+9. MODIFICATIONS
+
+Company reserves the right to modify this Agreement at any time. Continued use of the Software constitutes acceptance of modified terms.
+
+10. GOVERNING LAW
+
+This Agreement shall be governed by the laws of the State of [YOUR STATE].
+
+By accessing the Software, User acknowledges having read, understood, and agreed to this Agreement.
+
+---
+BAM Consulting Engineers, LLC
+BAM Structural Systems, LLC
